@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\bin\Debug\net5.0\EjercisioI01.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\refint\EjercisioI01.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\EjercisioI01.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\PrimerPrograma\EjercisioI01\obj\Debug\net5.0\ref\EjercisioI01.dll
