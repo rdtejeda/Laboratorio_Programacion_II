@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\bin\Debug\net5.0\I01MaxMin.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\refint\I01MaxMin.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\I01MaxMin.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I01MaxMin\obj\Debug\net5.0\ref\I01MaxMin.dll

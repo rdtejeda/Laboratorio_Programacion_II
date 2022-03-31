@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\bin\Debug\net5.0\I03LosPrimos.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\refint\I03LosPrimos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\I03LosPrimos.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I03LosPrimos\obj\Debug\net5.0\ref\I03LosPrimos.dll

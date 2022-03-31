@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\bin\Debug\net5.0\I05TirameCentro.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\refint\I05TirameCentro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\I05TirameCentro.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I05TirameCentro\obj\Debug\net5.0\ref\I05TirameCentro.dll

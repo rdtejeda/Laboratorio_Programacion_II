@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\bin\Debug\net5.0\I02ErroaAlCubo.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\refint\I02ErroaAlCubo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\I02ErroaAlCubo.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I02ErroaAlCubo\obj\Debug\net5.0\ref\I02ErroaAlCubo.dll
