@@ -20,6 +20,7 @@ namespace _01NecesitoUnPrestamo
     {
         static void Main(string[] args)
         {
+            Console.Title = "Necesito un Prestamo";
             //Crear Nueva Cuenta
             Cuenta nuevaCuenta = new Cuenta("",0);
             //Pedir Valores Iniciales
