@@ -1,7 +1,6 @@
 ﻿using System;
 
 namespace Biblioteca
-
 {
     public class Validador
     {
@@ -15,6 +14,15 @@ namespace Biblioteca
         public static bool Validar(int valor, int min, int max)
         {
             return valor >= min && valor <= max;
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="respuesta">Valor de la respuesta</param>
+        /// <returns>True si la respuesta es si(0)</returns>
+        public static bool ValidarRespuesta(int respuesta)
+        {
+            return respuesta == 0;
         }
     }
 }

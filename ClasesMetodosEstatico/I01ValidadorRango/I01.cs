@@ -14,7 +14,7 @@ Utilizar variables escalares, NO utilizar vectores/arrays.
 */
 namespace I01ValidadorRango
 {
-    internal class Program
+    internal class I01
     {
         static void Main(string[] args)
         {

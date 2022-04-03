@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01ValidadorRango", "I01Val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Validador\Biblioteca.csproj", "{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02DeseaContinuar", "I02DeseaContinuar\I02DeseaContinuar.csproj", "{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
