@@ -17,27 +17,31 @@ namespace I05TirameCentro
             Console.Title = "Ejercicio Nº5";
             string entrada;
             int numero;
-            int sumaMenores = 0;
-            int diferencia = 0;
             Console.WriteLine("Ingrese un numero entero mayor a 1");
             entrada = Console.ReadLine();
-
-            int.TryParse(entrada, out numero);
-
-            for (int i = 1; i < numero; i++) //sumando menores
-            {
-                sumaMenores = sumaMenores + i;
-            }
-            do
-            {
-                diferencia = sumaMenores - (numero + 1);
-                if (diferencia == 0)
+            int.TryParse(entrada, out numero);            
+            for (int i = 1; i <= numero; i++) 
+            {                
+                //Suma de menores
+                int sumaMenores = 0;
+                for (int j = 0; j < i; j++)
                 {
-                    Console.WriteLine("{0} es centro numerico", numero);
+                    sumaMenores = sumaMenores + j;
                 }
-                numero++;
-            } while (diferencia > 0);
-            Console.ReadKey();
+                //Suma de Mayores
+                int diferencia = 0;
+                int sumaMayores = 0;
+                for (int k=i+1; diferencia>=0; k++)
+                {
+                   sumaMayores= sumaMayores + k;
+                   //Calculo diferencia para definir Centro
+                   diferencia = sumaMenores - sumaMayores;
+                   if (diferencia == 0)
+                   {
+                    Console.WriteLine("{0} es centro numerico", i);
+                   }                      
+                }                    
+            }           
         }
     }
 }

@@ -22,11 +22,11 @@ namespace _01NecesitoUnPrestamo
         {
             Console.Title = "Necesito un Prestamo";
             //Crear Nueva Cuenta
-            Cuenta nuevaCuenta = new Cuenta("",0);
+            Cuenta nuevaCuenta = new Cuenta("", 0);
             //Pedir Valores Iniciales
-            nuevaCuenta=nuevaCuenta.IniciarCuenta();
+            nuevaCuenta = nuevaCuenta.IniciarCuenta();
             //Operar
             nuevaCuenta.Operar(nuevaCuenta);
-        }        
+        }      
     }
 }
