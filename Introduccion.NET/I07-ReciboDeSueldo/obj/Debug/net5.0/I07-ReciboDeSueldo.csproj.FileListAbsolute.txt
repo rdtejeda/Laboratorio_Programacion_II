@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\bin\Debug\net5.0\I07-ReciboDeSueldo.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\refint\I07-ReciboDeSueldo.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\I07-ReciboDeSueldo.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I07-ReciboDeSueldo\obj\Debug\net5.0\ref\I07-ReciboDeSueldo.dll

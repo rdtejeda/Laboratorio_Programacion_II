@@ -8,9 +8,7 @@ namespace HolaMundo
         {
             Console.Title = "Hello World!";
 
-            Console.Beep(); // Sonido por defecto.
-
-            
+            Console.Beep(); // Sonido por defecto.     
 
 
             Console.WriteLine("Presione una tecla o combinación de teclas:");

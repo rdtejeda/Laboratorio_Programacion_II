@@ -15,11 +15,13 @@ namespace I05TirameCentro
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio Nº5";
+            //Pido Numero
             string entrada;
             int numero;
             Console.WriteLine("Ingrese un numero entero mayor a 1");
             entrada = Console.ReadLine();
             int.TryParse(entrada, out numero);            
+            //Recorro dese 1 hasta el numero ingresado
             for (int i = 1; i <= numero; i++) 
             {                
                 //Suma de menores

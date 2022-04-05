@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\bin\Debug\net5.0\I06AñosBisiestos.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\refint\I06AñosBisiestos.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\I06AñosBisiestos.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I06AñosBisiestos\obj\Debug\net5.0\ref\I06AñosBisiestos.dll
