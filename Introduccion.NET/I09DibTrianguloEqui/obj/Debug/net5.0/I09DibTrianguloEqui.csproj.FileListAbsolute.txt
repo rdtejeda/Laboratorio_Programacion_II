@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\bin\Debug\net5.0\I09DibTrianguloEqui.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\refint\I09DibTrianguloEqui.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\I09DibTrianguloEqui.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I09DibTrianguloEqui\obj\Debug\net5.0\ref\I09DibTrianguloEqui.dll

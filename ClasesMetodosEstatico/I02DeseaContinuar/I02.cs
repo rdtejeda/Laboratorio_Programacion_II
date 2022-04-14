@@ -13,23 +13,17 @@ namespace I02DeseaContinuar
     {
         static void Main(string[] args)
         {
-            Console.Title = "¿Desea Continuar";
-            int enteros=0;
-            int respuesta=-1;
+            int entero=0;
             string entrada;
+            char respuesta;
             do
             {
-                enteros++;
+                Console.WriteLine($"El entero vale {entero}"); //("El entero vale {0}",entero);
+                entero++;
                 Console.WriteLine("¿Desea continuar? (S/N)");
                 entrada = Console.ReadLine();
-                /*
-                if(entrada=="S")
-                {
-                    respuesta = 0;
-                }
-                */
-            } while (Validador.ValidarRespuesta(entrada));     
-            Console.WriteLine("Hello World!");
+                char.TryParse(entrada, out respuesta);
+            } while (Validador.ValidarRespuesta(respuesta));
         }
     }
 }

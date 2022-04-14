@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I05TirameCentro", "I05Tiram
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaMundo", "HolaMundo\HolaMundo.csproj", "{C600C7E5-E808-428A-8772-1BB9AB605009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I06AñosBisiestos", "I06AñosBisiestos\I06AñosBisiestos.csproj", "{2551FAA4-25FF-4691-BD6D-C4AE16903EA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I06AñosBisiestos", "I06AñosBisiestos\I06AñosBisiestos.csproj", "{2551FAA4-25FF-4691-BD6D-C4AE16903EA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I07-ReciboDeSueldo", "I07-ReciboDeSueldo\I07-ReciboDeSueldo.csproj", "{5A1DEE6A-A4BB-47F8-8DBE-9B936AAFAD27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I07-ReciboDeSueldo", "I07-ReciboDeSueldo\I07-ReciboDeSueldo.csproj", "{5A1DEE6A-A4BB-47F8-8DBE-9B936AAFAD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I08DibTrianguloRec", "I08DibTrianguloRec\I08DibTrianguloRec.csproj", "{3A8BC0D8-20EC-4F78-93C5-33D6F1BED426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I09DibTrianguloEqui", "I09DibTrianguloEqui\I09DibTrianguloEqui.csproj", "{78A717F4-C5B1-4234-A0D0-DB1438315DAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{5A1DEE6A-A4BB-47F8-8DBE-9B936AAFAD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A1DEE6A-A4BB-47F8-8DBE-9B936AAFAD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A1DEE6A-A4BB-47F8-8DBE-9B936AAFAD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8BC0D8-20EC-4F78-93C5-33D6F1BED426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8BC0D8-20EC-4F78-93C5-33D6F1BED426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8BC0D8-20EC-4F78-93C5-33D6F1BED426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8BC0D8-20EC-4F78-93C5-33D6F1BED426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A717F4-C5B1-4234-A0D0-DB1438315DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A717F4-C5B1-4234-A0D0-DB1438315DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A717F4-C5B1-4234-A0D0-DB1438315DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A717F4-C5B1-4234-A0D0-DB1438315DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

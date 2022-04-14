@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01ValidadorRango", "I01ValidadorRango\I01ValidadorRango.csproj", "{7144B963-E5F9-4F71-8651-6F636F08C07F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I01ValidadorRango", "I01ValidadorRango\I01ValidadorRango.csproj", "{7144B963-E5F9-4F71-8651-6F636F08C07F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Validador\Biblioteca.csproj", "{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Validador\Biblioteca.csproj", "{575DA558-47C4-4DC9-AD6C-2CB19E2A6E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02DeseaContinuar", "I02DeseaContinuar\I02DeseaContinuar.csproj", "{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I02DeseaContinuar", "I02DeseaContinuar\I02DeseaContinuar.csproj", "{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase30Marzo", "Clase30Marzo\Clase30Marzo.csproj", "{870D9611-F1CA-4B56-9673-3F5EC6FD5998}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I03ConversorBinario", "I03ConversorBinario\I03ConversorBinario.csproj", "{9489464D-0A7E-463A-A437-6105B342A518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I04LaCalcu", "I04LaCalcu\I04LaCalcu.csproj", "{C57DF50B-FECD-46EE-BA5B-ECAB1F36B1A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I05AprendeteTablas", "I05AprendeteTablas\I05AprendeteTablas.csproj", "{485E25FD-8FBB-4146-B78C-B566B791603B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{FC3AE34E-ED82-42AB-A1E4-22B60D0E9DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68D78B49-51C0-45CF-B8AE-F62DB3C62C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870D9611-F1CA-4B56-9673-3F5EC6FD5998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870D9611-F1CA-4B56-9673-3F5EC6FD5998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870D9611-F1CA-4B56-9673-3F5EC6FD5998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870D9611-F1CA-4B56-9673-3F5EC6FD5998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9489464D-0A7E-463A-A437-6105B342A518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9489464D-0A7E-463A-A437-6105B342A518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9489464D-0A7E-463A-A437-6105B342A518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9489464D-0A7E-463A-A437-6105B342A518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57DF50B-FECD-46EE-BA5B-ECAB1F36B1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57DF50B-FECD-46EE-BA5B-ECAB1F36B1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57DF50B-FECD-46EE-BA5B-ECAB1F36B1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57DF50B-FECD-46EE-BA5B-ECAB1F36B1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485E25FD-8FBB-4146-B78C-B566B791603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485E25FD-8FBB-4146-B78C-B566B791603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485E25FD-8FBB-4146-B78C-B566B791603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485E25FD-8FBB-4146-B78C-B566B791603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3AE34E-ED82-42AB-A1E4-22B60D0E9DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3AE34E-ED82-42AB-A1E4-22B60D0E9DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3AE34E-ED82-42AB-A1E4-22B60D0E9DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3AE34E-ED82-42AB-A1E4-22B60D0E9DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

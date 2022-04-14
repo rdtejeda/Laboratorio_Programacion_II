@@ -18,22 +18,57 @@ namespace I01ValidadorRango
     {
         static void Main(string[] args)
         {
-            string entrada;
-            int numero;
-            for (int i = 0; i < 10; i++)
+            /*            
+           string entrada;
+           int numero;
+           for (int i = 0; i < 10; i++)
+           {                
+               Console.WriteLine("Ingrese un numero");
+               entrada = Console.ReadLine();
+               int.TryParse(entrada, out numero);
+               if (Validador.Validar(numero, -100, 100))
+               {
+                   Console.WriteLine("El numero {0} esta dentro del rango", numero);
+               }
+               else
+               {
+                   Console.WriteLine("Fuera de rango!");
+               }                
+           }*/
+            int numeroIngresado;
+            int minimo=int.MaxValue;
+            int maximo=int.MinValue;
+            int contador = 0;
+            do
             {
-                Console.WriteLine("Ingrese un numero");
-                entrada = Console.ReadLine();
-                int.TryParse(entrada, out numero);
-                if (Validador.Validar(numero, -100, 100))
+                do
                 {
-                    Console.WriteLine("El numero {0} esta dentro del rango", numero);
-                }
-                else
-                {
-                    Console.WriteLine("Fuera de rango!");
-                }
-            }
+                    Console.WriteLine("Ingrese un numero");
+                    numeroIngresado = int.Parse(Console.ReadLine());
+                } while (!Validador.Validar(numeroIngresado, -100, 1000));
+                minimo = ObtenerMinimo(numeroIngresado,minimo);
+                maximo = ObtenerMaximo(numeroIngresado,maximo);
+                contador++;
+            } while (contador < 10);
+            Console.WriteLine($"El numero menor es {minimo}");
+            Console.WriteLine($"El numero mayor es {maximo}");
         }
+        public static int ObtenerMinimo(int numeroIngresado, int minimo)
+        {
+            if(numeroIngresado < minimo)
+            {
+                minimo = numeroIngresado; 
+            }
+            return minimo;
+        }
+        public static int ObtenerMaximo(int numeroIngresado, int maximo)
+        {
+            if (numeroIngresado > maximo)
+            {
+                maximo = numeroIngresado;
+            }
+            return maximo;  
+        }
+
     }
 }

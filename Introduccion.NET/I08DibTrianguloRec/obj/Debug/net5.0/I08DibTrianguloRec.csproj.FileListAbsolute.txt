@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\bin\Debug\net5.0\I08DibTrianguloRec.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\refint\I08DibTrianguloRec.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\I08DibTrianguloRec.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Introduccion.NET\I08DibTrianguloRec\obj\Debug\net5.0\ref\I08DibTrianguloRec.dll

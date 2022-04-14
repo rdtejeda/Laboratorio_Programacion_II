@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TituloYMensaje/1.0.0": {
+        "runtime": {
+          "TituloYMensaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TituloYMensaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
