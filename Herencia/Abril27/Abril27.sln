@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{49598F18-3207-445A-8016-4D564185ADB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{7CDECA4D-37CF-4941-AE2A-DD31DA600CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49598F18-3207-445A-8016-4D564185ADB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49598F18-3207-445A-8016-4D564185ADB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49598F18-3207-445A-8016-4D564185ADB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49598F18-3207-445A-8016-4D564185ADB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDECA4D-37CF-4941-AE2A-DD31DA600CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDECA4D-37CF-4941-AE2A-DD31DA600CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDECA4D-37CF-4941-AE2A-DD31DA600CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDECA4D-37CF-4941-AE2A-DD31DA600CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E09F2589-37E1-4AF0-B02C-0487327CAEDC}
+	EndGlobalSection
+EndGlobal

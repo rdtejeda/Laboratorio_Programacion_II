@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\bin\Debug\net5.0\Clase20Abril.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\refint\Clase20Abril.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\Clase20Abril.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Colecciones\Colecciones\Clase20Abril\obj\Debug\net5.0\ref\Clase20Abril.dll

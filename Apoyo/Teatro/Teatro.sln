@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teatro", "Teatro\Teatro.csproj", "{D36F0702-1DFA-4592-9897-3800A2E6D4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI Teatro", "WinFormsApp1\UI Teatro.csproj", "{7509BC78-D443-465B-855F-A0AD8F07F146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola_Teatro", "Consola_Teatro\Consola_Teatro.csproj", "{161E769B-4177-4085-9341-64B895A4D01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36F0702-1DFA-4592-9897-3800A2E6D4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36F0702-1DFA-4592-9897-3800A2E6D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36F0702-1DFA-4592-9897-3800A2E6D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36F0702-1DFA-4592-9897-3800A2E6D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7509BC78-D443-465B-855F-A0AD8F07F146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7509BC78-D443-465B-855F-A0AD8F07F146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7509BC78-D443-465B-855F-A0AD8F07F146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7509BC78-D443-465B-855F-A0AD8F07F146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161E769B-4177-4085-9341-64B895A4D01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161E769B-4177-4085-9341-64B895A4D01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161E769B-4177-4085-9341-64B895A4D01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161E769B-4177-4085-9341-64B895A4D01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B57DEED-94FB-498A-A94F-A81A2EDF8919}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\bin\Debug\net5.0\Teatro.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\bin\Debug\net5.0\Teatro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\bin\Debug\net5.0\Teatro.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\refint\Teatro.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\Teatro.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Apoyo\Teatro\Teatro\obj\Debug\net5.0\ref\Teatro.dll
