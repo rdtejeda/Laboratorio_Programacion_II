@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Biblioteca
+build_property.ProjectDir = C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\

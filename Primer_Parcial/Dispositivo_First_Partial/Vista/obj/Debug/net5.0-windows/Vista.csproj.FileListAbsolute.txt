@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.FormPrincipal.resources
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Dispositivo_First_Partial\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.FrmTest.resources
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Primer_Parcial\Libreria_First_Parcial\FrmTest\obj\Debug\net5.0-windows\FrmTest.csproj.CoreCompileInputs.cache

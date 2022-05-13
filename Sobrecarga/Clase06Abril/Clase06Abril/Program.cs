@@ -31,6 +31,7 @@ namespace Clase06Abril
             Console.WriteLine(tiempoUno.Mostrar());
             Console.WriteLine(tiempoDos.Mostrar());
             Console.WriteLine(tiempoTres.Mostrar());
+            Console.WriteLine(((int)tiempoTres).ToString());
 
         }
     }

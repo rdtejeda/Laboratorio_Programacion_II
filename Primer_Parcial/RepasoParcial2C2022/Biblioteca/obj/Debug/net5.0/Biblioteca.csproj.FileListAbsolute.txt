@@ -1,0 +1,24 @@
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

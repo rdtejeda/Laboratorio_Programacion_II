@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.exe
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\bin\Debug\net5.0\CSobrescribir.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\refint\CSobrescribir.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\CSobrescribir.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Herencia\Abril27\Sobrescribir\obj\Debug\net5.0\ref\CSobrescribir.dll

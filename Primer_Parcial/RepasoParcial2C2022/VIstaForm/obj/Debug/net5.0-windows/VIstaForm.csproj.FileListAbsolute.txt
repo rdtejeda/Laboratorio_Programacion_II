@@ -1,0 +1,42 @@
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.exe
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.deps.json
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.runtimeconfig.json
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.runtimeconfig.dev.json
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.pdb
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\refint\VIstaForm.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.pdb
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.genruntimeconfig.cache
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\ref\VIstaForm.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.FrmPrincipal.resources
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.exe
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.runtimeconfig.json
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\VIstaForm.pdb
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.FrmPrincipal.resources
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.csproj.CopyComplete
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\refint\VIstaForm.dll
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.pdb
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\VIstaForm.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\UTNFrA\2022_Primer_Cuatri_Div_C_y_E\Labo_Progra_II_Div_C_c1_22\Primer Parcial Labo\RepasoParcial2C2022\VIstaForm\obj\Debug\net5.0-windows\ref\VIstaForm.dll
