@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\bin\Debug\net5.0\StringExtendido.deps.json
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\bin\Debug\net5.0\StringExtendido.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\bin\Debug\net5.0\StringExtendido.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\refint\StringExtendido.dll
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\StringExtendido.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Test\ProyectoPrueba\StringExtendido\obj\Debug\net5.0\ref\StringExtendido.dll

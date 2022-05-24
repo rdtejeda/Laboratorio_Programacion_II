@@ -47,8 +47,13 @@ namespace FormPrincipal
             }
             finally
             {
-                MessageBox.Show("Pasé");
+               // MessageBox.Show("Pasé");
             }
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
         }
     }
 }
