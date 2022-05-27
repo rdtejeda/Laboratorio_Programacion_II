@@ -95,15 +95,14 @@ namespace Biblioteca
             }
             catch (CompetenciaNoDisponibleException exMi)
             {
-                Console.WriteLine(exMi.ToString());
-                throw new CompetenciaNoDisponibleException("Competencia incorrecta");
+               throw new CompetenciaNoDisponibleException("Competencia", "Sobregarga de operador +","Competencia incorrecta",exMi);
             }
             catch (Exception)
-            {               
+            {
+                throw;
             }
             finally
             {
-
             }            
             return retorno;
         }       
@@ -138,9 +137,8 @@ namespace Biblioteca
                     }
                 }  
             }else
-                { 
-                retorno = true;
-                throw new CompetenciaNoDisponibleException("El vehículo no corresponde a la competencia");
+                {
+                throw new CompetenciaNoDisponibleException("Competencia","Sobregarga de operador ==","El vehículo no corresponde a la competencia"); ;
                 }  
             return retorno;
         }

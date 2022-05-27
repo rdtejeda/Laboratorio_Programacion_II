@@ -1,8 +1,3 @@
-C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
-C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
-C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
-C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Consola.exe
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Consola.deps.json
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
@@ -11,6 +6,11 @@ C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_P
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Consola.pdb
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Biblioteca.dll
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\Consola.dll
 C:\Users\Usuario\Downloads\UTNFrA\Repositorios_Clonados_Compratido\Laboratorio_Programacion_II\Integrador\Enciendan_Sus_Motores\Consola\obj\Debug\net5.0\refint\Consola.dll

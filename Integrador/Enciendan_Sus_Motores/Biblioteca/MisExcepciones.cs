@@ -17,8 +17,12 @@ namespace Biblioteca
         public CompetenciaNoDisponibleException(string message) : base(message)
         {
         }
-
         public CompetenciaNoDisponibleException(string nombreClase, string nombreMetodo, string message) : this(message)
+        {
+            this.nombreMetodo = nombreMetodo;
+            this.nombreClase = nombreClase;
+        }
+        public CompetenciaNoDisponibleException(string nombreClase, string nombreMetodo, string message, Exception inner) : base(message,inner)
         {
             this.nombreMetodo = nombreMetodo;
             this.nombreClase = nombreClase;
@@ -41,14 +45,17 @@ namespace Biblioteca
         {
             //"Excepción en el método {0} de la clase {1}:"
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("Excepción en el método {0} de la clase {1}:\n",NombreMetodo,NombreClase);
+            sb.AppendFormat("Excepción en el método {0} de la clase {1}.\n",NombreMetodo, NombreClase);
             //Mensaje propio de la excepción.
-            sb.AppendLine(this.Message);
+            sb.AppendFormat($"El Mensaje propio de la excepción es: '{Message}'\n");
             //Todos los InnerException con una tabulación(\t).
-            sb.AppendLine(this.InnerException.Message);
-            
+            Exception auxInner = this.InnerException;
+            while (auxInner != null)
+            {
+                sb.AppendLine($"\t{auxInner.Message}");
+                auxInner = auxInner.InnerException;                
+            }
             return sb.ToString();
         }
-
     }
 }
