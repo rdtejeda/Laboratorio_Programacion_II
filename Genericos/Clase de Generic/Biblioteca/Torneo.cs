@@ -98,6 +98,39 @@ namespace Biblioteca
             }
             return sb.ToString();
         }
-        public int MyProperty { get; set; }
+        /// <summary>
+        /// Toma dos equipos de la lista al azar y calculará el resultado del partido a través del método CalcularPartido.
+        /// Si nohay equipos suficntes para jugar devulve ArgumenExcep
+        /// </summary>
+        public string JugarPartido 
+        { 
+            get
+            {
+                string retorno = string.Empty;
+                try
+                {
+                    Random random = new Random();
+                    int indice1, indice2;
+                    if (this.torneo.Count >= 2)
+                    {
+                        indice1 = random.Next(0, this.torneo.Count - 1);
+                        indice2 = random.Next(0, this.torneo.Count - 1);
+                        while (indice1 == indice2)
+                        {
+                            indice2 = random.Next(0, this.torneo.Count - 1);
+                        }
+                        retorno=CalcularPartido(this.torneo[indice2], this.torneo[indice1]);
+                        return retorno;
+                    }
+                    throw new ArgumentException("No hay suficiente equipos cargados");
+                }
+                catch (Exception)
+                {
+                    throw;
+                }
+
+                return retorno;
+            }
+        }
     }
 }

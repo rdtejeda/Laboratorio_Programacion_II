@@ -1,6 +1,7 @@
 ﻿using System;
+using Biblioteca;
 
-namespace Generic
+namespace ConsolaTorneos
 {
     internal class Program
     {

@@ -1,12 +1,16 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Biblioteca;
+{
+
+}
 
 namespace TestTorneo
 {
     [TestClass]
-    public class UnitTest1
+    public class ClaseTorneo
     {
         [TestMethod]
-        public void TestMethod1()
+        public void SiPropiedadJugarPartido_recibeDosEquipos_devuelveResultado()
         {
         }
     }
