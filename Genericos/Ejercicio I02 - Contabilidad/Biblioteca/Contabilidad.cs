@@ -12,7 +12,7 @@ namespace Biblioteca
     {
         private List<T> egresos;
         private List<U> ingresos;
-
+        
         public Contabilidad()
         {
             this.egresos = new List<T>();

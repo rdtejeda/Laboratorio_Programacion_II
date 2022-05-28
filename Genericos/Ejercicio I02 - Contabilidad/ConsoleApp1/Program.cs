@@ -25,18 +25,12 @@ namespace ConsoleApp1
             miContabilidad.ListaIngresos.Add(recibo3);
             miContabilidad.ListaIngresos.Add(recibo2);
             //ACA QUIERO USAR SOBRECARGA +
-            if (miContabilidad.ListaEgresos + factura2)
-            {
+            //if (miContabilidad.ListaEgresos + factura2)
+            //{
 
-            }
+            //}
             Console.WriteLine(miContabilidad.ListaEgresos.Count.ToString());
             Console.WriteLine(miContabilidad.ListaIngresos.Count.ToString());
-
-
-
-
-            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            ruta += @"\El mio\";
         }
     }
 }

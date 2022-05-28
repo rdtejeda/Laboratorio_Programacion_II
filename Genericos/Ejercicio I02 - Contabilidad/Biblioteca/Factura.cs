@@ -11,5 +11,6 @@ namespace Biblioteca
         public Factura(int numero) : base(numero)
         {
         }
+
     }
 }
