@@ -11,10 +11,5 @@ namespace Biblioteca
         public EquipoFutbol(string nombre, DateTime fechaCreacion) : base(nombre, fechaCreacion)
         {
         }
-
-        //public override bool Equals(object obj)
-        //{
-        //    return (obj is EquipoFutbol futbol && Nombre == futbol.Nombre && FechaCreacion == futbol.FechaCreacion);
-        //}
     }
 }

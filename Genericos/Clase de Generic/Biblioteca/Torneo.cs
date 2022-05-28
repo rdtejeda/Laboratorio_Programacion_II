@@ -6,14 +6,16 @@ namespace Biblioteca
 {
     public class Torneo<T> where T: Equipo
     {
-        private List<T> torneo;
+        private List<T> equipos;
         private string nombre;
 
-        public Torneo(List<T> torneo, string nombre)
+        public Torneo(string nombre)
         {
-            this.torneo = torneo;
+            this.equipos = new List<T>();
             this.nombre = nombre;
         }
+
+        
         public string Nombre { get{ return nombre;} }
             
         /// <summary>
@@ -25,11 +27,14 @@ namespace Biblioteca
         public static bool operator ==(Torneo<T> t, T tipo)
         {
             bool retorno = false;
-            if((t != null && tipo != null))
+            if(t is not null && tipo is not null)
             {
-                foreach (T item in t.torneo)
+                foreach (T item in t.equipos)
                 {
-                    retorno = true;
+                    if (item==tipo)
+                    {
+                        retorno = true;
+                    }
                 }
             }
             return  retorno;
@@ -57,44 +62,52 @@ namespace Biblioteca
             {
                 if(t!=tipo)
                 {
-                    t.torneo.Add(tipo);
+                    t.equipos.Add(tipo);
                     retorno = true;
                 }
             }
             return retorno;
         }
         /// <summary>
-        ///  Mostrar retornará los datos del torneo y de los equipos participantes.
+        ///  Mostrar retornará los datos del equipos y de los equipos participantes.
         /// </summary>
         /// <returns> string con datos </returns>
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Torneo {this.Nombre}");
-            if (this.torneo.Count>0)
+           // if(this is not null)
+            sb.AppendLine($"Torneo: {this.Nombre}");
+            if (this.equipos.Count>0)
             {
-                foreach (T item in this.torneo)
+                foreach (T item in this.equipos)
                 {
                      sb.AppendLine(item.Ficha());
                 }
-            }
-            else
+            }else
             {
-                sb.AppendLine("No hay equipos anotados");
+                throw new NoHayEquiposAnotadosException("No hay suficiente cantidad de equipos anotados");
+               // sb.AppendLine("No hay equipos anotados");
             }            
             return sb.ToString();
         }
+        /// <summary>
+        /// Recibe dos elementos del tipo T, que deberán ser del tipo Equipo o sus herencias
+        /// Calcula utilizando la clase Random un resultado del partido. 
+        /// </summary>
+        /// <param name="tipo1"></param>
+        /// <param name="tipo2"></param>
+        /// <returns>Retornará el resultado como un string</returns>
         private string CalcularPartido(T tipo1, T tipo2)
         {
             StringBuilder sb = new StringBuilder();
             Random rand = new Random();
             if (tipo1 is EquipoFutbol && tipo2 is EquipoFutbol)
             {
-                sb.Append($"{tipo1.Nombre} {rand.Next(0, 5)} - {tipo2.Nombre} {rand.Next(0, 5)}");
+                sb.Append($"{tipo1.Nombre} {rand.Next(1, 5)} - {tipo2.Nombre} {rand.Next(1, 5)}");
             }
             if (tipo1 is EquipoBasquet && tipo2 is EquipoBasquet)
             {
-                sb.Append($"{tipo1.Nombre} {rand.Next(0, 120)} - {tipo2.Nombre} {rand.Next(0, 120)}");
+                sb.Append($"{tipo1.Nombre} {rand.Next(50, 120)} - {tipo2.Nombre} {rand.Next(50, 120)}");
             }
             return sb.ToString();
         }
@@ -111,24 +124,23 @@ namespace Biblioteca
                 {
                     Random random = new Random();
                     int indice1, indice2;
-                    if (this.torneo.Count >= 2)
+                    if (this.equipos.Count >= 2)
                     {
-                        indice1 = random.Next(0, this.torneo.Count - 1);
-                        indice2 = random.Next(0, this.torneo.Count - 1);
+                        indice1 = random.Next(0, this.equipos.Count - 1);
+                        indice2 = random.Next(0, this.equipos.Count - 1);
                         while (indice1 == indice2)
                         {
-                            indice2 = random.Next(0, this.torneo.Count - 1);
+                            indice2 = random.Next(0, this.equipos.Count - 1);
                         }
-                        retorno=CalcularPartido(this.torneo[indice2], this.torneo[indice1]);
+                        retorno=CalcularPartido(this.equipos[indice2], this.equipos[indice1]);
                         return retorno;
                     }
-                    throw new ArgumentException("No hay suficiente equipos cargados");
+                    throw new ArgumentException($"En el torneo {this.Nombre} no hay suficiente equipos cargados para jugar");
                 }
                 catch (Exception)
                 {
                     throw;
                 }
-
                 return retorno;
             }
         }
